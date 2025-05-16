@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Imran
 
-<!--
-**immiimran/immiimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Flutter Developer** with 4+ years of experience building beautiful, fast, and scalable cross-platform mobile apps. I have completed **20+ real-world projects** across e-commerce, health, education, travel, and finance industries.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Frameworks:** Flutter, GetX, Provider, Bloc
+- **Languages:** Dart, Python, Java (basic), JavaScript (basic),
+- **Backend Integration:** Firebase (Auth, Firestore, Cloud Messaging), RESTful APIs
+- **Tools:** Git, VS Code, Android Studio, Postman
+- **Design:** Figma, Adobe XD
+
+---
+
+### 🔥 Notable Projects
+- [🏥 Medical Appointment App](#) – Patient-doctor booking with Firebase backend
+- [🛍️ E-commerce App](#) – Full-featured mobile store with cart & checkout
+- [📚 Learning App](#) – Interactive quiz & course player with analytics
+
+> 🎯 Live Demos & Case Studies coming soon…
+
+---
+
+### 📈 Stats
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=immiimran&show_icons=true&theme=react&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=immiimran&layout=compact&theme=react)
+
+---
+
+### 📬 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/imminpk/)
+- 📧 imminpk@gmail.com
