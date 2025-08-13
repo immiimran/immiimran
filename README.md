@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imran
 
-I'm a passionate **Flutter Developer** with 4+ years of experience building beautiful, fast, and scalable cross-platform mobile apps. I have completed **20+ real-world projects** across e-commerce, health, education, travel, and finance industries.
+I'm a passionate **Flutter Developer** with 2+ years of experience building beautiful, fast, and scalable cross-platform mobile apps. I have completed **20+ real-world projects** across e-commerce, health, education, travel, and finance industries.
 
 ---
 
