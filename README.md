@@ -14,7 +14,7 @@ I'm a passionate **Flutter Developer** with 2+ years of experience building beau
 ---
 
 ### 🔥 Notable Projects
-- [🏥 Medical Appointment App](#) – Patient-doctor booking with Firebase backend
+- [🏥 Medical Appointment App](https://github.com/immiimran/Doctor-Appointment-App) – Patient-doctor booking with Firebase backend
 - [🛍️ E-commerce App](#) – Full-featured mobile store with cart & checkout
 - [📚 Learning App](#) – Interactive quiz & course player with analytics
 
